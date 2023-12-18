@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442675721543",
+    "project_id": "ocr-abga",
+    "storage_bucket": "ocr-abga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442675721543:android:8496dd4176998941720862",
+        "android_client_info": {
+          "package_name": "com.ocr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4uq9OzExtBENZmlokJVT9-bS4nFMCV-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
